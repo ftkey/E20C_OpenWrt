@@ -143,7 +143,7 @@ jobs:
         PACKAGE_SOC: e20c
        # KERNEL_AUTO_LATEST: false
        # KERNEL_REPO_URL: https://github.com/quanjindeng/Actions_OpenWrt-Amlogic/tree/main/kernel
-        KERNEL_VERSION_NAME: 5.10.218_6.6.57
+        KERNEL_VERSION_NAME: 6.6.57_6.6.57
 
     - name: 发布固件
       uses: ncipollo/release-action@v1
